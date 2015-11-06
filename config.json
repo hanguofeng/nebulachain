@@ -1,0 +1,11 @@
+{
+	"Plans":[
+		{
+		"name":"tmp",
+		"path":"/tmp/test",
+		"key_prefix":"sss",
+		"bucket":"xer-backup",
+		"region":"cn-north-1"
+		}
+	]
+}
